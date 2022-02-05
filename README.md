@@ -11,4 +11,4 @@ In this notebook, I will try the process of implementing CNN with Keras in order
 
 3. We'll try a simple CNN model and then we will evaluate its performances.
 
-4. We will then use pre trained model to address this challenge aswell.
+4. We will then use pre trained model to address this challenge as well.
