@@ -411,7 +411,7 @@ model.evaluate_generator(validation_generator, 128)
 # In[ ]:
 
 
-One more time, through the metrics, we can see that these features do noy indicated a good model
+One more time, through the metrics, we can see that these features did not  indicate a good model
 
 
 # In[ ]:
